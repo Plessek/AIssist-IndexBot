@@ -3,6 +3,12 @@
 AIssist-IndexBot is a self-hosted **AI knowledge assistant** that runs on Telegram.  
 It can index documents, answer questions from them, and keep project-specific tasks — powered by [Ollama](https://ollama.com/) for local AI models.
 
+## 💬 Join the Community
+Chat, ask questions, and share ideas in our Telegram group:  
+[👉 Join AIssistIndexBot on Telegram]  (https://t.me/YOUR_LINK_HERE)](https://t.me/AIssistIndexBot)
+
+
+
 ---
 
 ## ✨ Features
