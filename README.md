@@ -5,8 +5,7 @@ It can index documents, answer questions from them, and keep project-specific ta
 
 ## 💬 Join the Community
 Chat, ask questions, and share ideas in our Telegram group:  
-[👉 Join AIssistIndexBot on Telegram](https://t.me/AIssistIndexBot)
-
+[![Join us on Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/AIssistIndexBot)
 
 ---
 
@@ -97,5 +96,3 @@ Then run `/reindex` in Telegram to update the index.
 This project uses the MIT License.  
 If you redistribute or modify this project, you must **keep this license file** and include attribution.  
 Ollama is licensed separately under its own terms.
-
----
