@@ -5,8 +5,7 @@ It can index documents, answer questions from them, and keep project-specific ta
 
 ## 💬 Join the Community
 Chat, ask questions, and share ideas in our Telegram group:  
-[👉 Join AIssistIndexBot on Telegram]  (https://t.me/YOUR_LINK_HERE)](https://t.me/AIssistIndexBot)
-
+[👉 Join AIssistIndexBot on Telegram](https://t.me/AIssistIndexBot)
 
 
 ---
